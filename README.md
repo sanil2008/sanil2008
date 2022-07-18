@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanil2008
-- 👀 I’m interested in HTML/CSS
+- 👀 I’m interested in HTML/CSS/Javascript
 - 🌱 I’m currently learning programming and maths
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me do not reach me
